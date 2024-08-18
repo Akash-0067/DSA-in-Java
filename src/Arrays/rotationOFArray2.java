@@ -1,7 +1,7 @@
 package Arrays;
 
 import java.util.Scanner;
-
+// it is the code of rotation of array
 public class rotationOFArray2 {
     public static void main(String[] args) {
         int[] arr = {4, 0, 5, 8, 7, 6, 3};
